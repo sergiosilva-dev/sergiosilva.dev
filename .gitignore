@@ -1,0 +1,15 @@
+# Node
+node_modules
+
+# Output
+.out
+.next
+dist
+coverage
+
+# Env
+.env*
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
